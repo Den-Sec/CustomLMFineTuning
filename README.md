@@ -34,7 +34,7 @@ Contributions are highly appreciated and help make this project even better. If 
 
 ## Acknowledgements
 
-- [Original UnSloth Library](https://github.com/unsloth-docs) - For the foundational codebase.
+- [Original UnSloth Library](https://github.com/unslothai/unsloth/tree/main#installation-instructions) - For the foundational codebase.
 - [Hugging Face](https://huggingface.co/) - For their extensive library of language models.
 - [Google Colab](https://colab.research.google.com/) - For providing a flexible and powerful environment for machine learning projects.
 
